@@ -18,6 +18,7 @@ Here are the list of Materials you will need to create this sound system:
 - 1 x Ultrasonic Ping Sensor (HC-SR04) 
 - 1 x Piezo Buzzer
 - 3 x MOFSET N Transistors
+- 2 x Resistors
 - 24 x Wires
 # Build
 # Future Plans
