@@ -74,9 +74,11 @@ Dependency:
 # Dependency and Usage
 
 <h3> Dependency
+  
 To use the ping sensor users would need to add NewPing in their libraries. https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home
 
 <h3> Usage
+  
   To use this alarm system, you can put it anywhere you want to. For me, I stick the LED strips around my door frame and hid the arudino in the corner below the door frame. Make sure that the sensors are not getting block with any obstruction. Another thing to think about is the distance of your sensors and how long you want it to sense movement. 
   
 # Future Plans
