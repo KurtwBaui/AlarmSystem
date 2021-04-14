@@ -13,6 +13,11 @@
   
 James Bruce Simple Fire Alarm Link : https://www.makeuseof.com/tag/how-to-make-a-simple-arduino-alarm-system/
 # Video and Showcase
+
+Video Showcase of Alarm System 
+
+Link: (https://youtu.be/OR4H4m67rSI)
+
 # Materials 
 
 Here are the list of Materials you will need to create this sound system:
