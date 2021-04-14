@@ -8,11 +8,13 @@
 * 6. Future Plans
 * 7. Final Remarks
 # Introductory
+
   Before starting with the showcase, I would like to mention that this build is not fully finish to my standards due to time crunch and being a beginner coder. I did not get to add a sound system to this fire alarm like I wanted, but I did manage to create an on and off kill switch to this alarm system code. I got this alarm code by James Bruce, where it detects movement, then scare the heck out of an intruder with a high pitched alarm sounds and flashing lights, but I changed this code by adding an on and off kill switch to the system because the code lacked a power button. The setbacks of this code was that there was no on and off switch for the alarm. It just triggeres the alarm on any body who comes in the range of the sensor. 
   
 James Bruce Simple Fire Alarm Link : https://www.makeuseof.com/tag/how-to-make-a-simple-arduino-alarm-system/
 # Video and Showcase
 # Materials 
+
 Here are the list of Materials you will need to create this sound system:
 - 1 x Arduino Uno
 - 1 x 5v LED Strip
@@ -25,6 +27,7 @@ Here are the list of Materials you will need to create this sound system:
 Dependency:
 - NewPing (https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home)
 # Build
+
   Here are the step by step process on creating the alarm system in the Arduino Uno, I will try to section this off from left to right. 
   ![Alarm_bb](https://user-images.githubusercontent.com/79666499/114623686-d4788000-9c6c-11eb-8e68-5877ed601503.png)
   (FULL Breadboard) 
@@ -69,6 +72,7 @@ Dependency:
   ![Sensor_bb](https://user-images.githubusercontent.com/79666499/114626312-c7f62680-9c70-11eb-91de-6ae70039a745.png)
   
 # Dependency and Usage
+
 <h3> Dependency
 To use the ping sensor users would need to add NewPing in their libraries. https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home
 
@@ -76,9 +80,11 @@ To use the ping sensor users would need to add NewPing in their libraries. https
   To use this alarm system, you can put it anywhere you want to. For me, I stick the LED strips around my door frame and hid the arudino in the corner below the door frame. Make sure that the sensors are not getting block with any obstruction. Another thing to think about is the distance of your sensors and how long you want it to sense movement. 
   
 # Future Plans
+
 For some future plans, I would like to acutally add the sound system for his alarm. I got the materials for it, but I was having troubles with the sound to code process because it was a lot of lines of code. If I get better at coding in general, I would like to change sensors in facial recognition, where it allows the user to only detect a specific face to go through the alarm system and if the person does not match the facial recognition the alarm would go off. 
 
 # Final Remarks
+
 I would like to thank CS207, for showing me some new knowledge about coding as a beginner coder, I had some ups and downs coding, but it was really fun overall. 
 
 <h3> Links to where I got some of the materials:
